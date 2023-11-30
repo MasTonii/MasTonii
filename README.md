@@ -7,7 +7,7 @@
 ## 💫 About Me:
 🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>
 
-- 📫 How to reach me **farihmadridista@gmail.com**
+📫 How to reach me **farihmadridista@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
