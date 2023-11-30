@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WEDPyy9IyKok7mYlD9ClJ&ust=1701448409355000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMipkbKT7IIDFQAAAAAdAAAAABAE" alt="" ></h2>
+<h2><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WEDPyy9IyKok7mYlD9ClJ&ust=1701448409355000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMipkbKT7IIDFQAAAAAdAAAAABAE" alt="" witdh="100px"></h2>
 
 <h1 align="center">Hi 👋, I'm M. Toni Farih Hidayat</h1>
 <h3 align="center">A passionate frontend developer from Jambi Indonesia</h3>
