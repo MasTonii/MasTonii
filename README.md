@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p float="left"; margin=5px;>![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/MasTonii/MasTonii/assets/151390337/47ccfa11-554c-4c36-861f-59ebed5a0ce5)</p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WEDPyy9IyKok7mYlD9ClJ&ust=1701448409355000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMipkbKT7IIDFQAAAAAdAAAAABAE" alt="" float="left" margin=5px>
 
 <h1 align="center">Hi 👋, I'm M. Toni Farih Hidayat</h1>
 <h3 align="center">A passionate frontend developer from Jambi Indonesia</h3>
