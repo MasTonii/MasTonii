@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2uO13LI8Nm3l1G7CWN7DPC&ust=1701446597290000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj9iNKM7IIDFQAAAAAdAAAAABAE
+
 <h1 align="center">Hi 👋, I'm M. Toni Farih Hidayat</h1>
 <h3 align="center">A passionate frontend developer from Jambi Indonesia</h3>
 
