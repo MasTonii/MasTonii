@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm M. Toni Farih Hidayat</h1>
-<h3 align="center">A passionate backend developer from Jambi Indonesia</h3>
+<h3 align="center">A passionate web developer from Jambi Indonesia</h3>
 
 ## 💫 About Me:
 🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>
